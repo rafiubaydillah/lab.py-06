@@ -5,7 +5,8 @@ Kelas : TI.24.A.5 <p>
 Mata kuliah : Bahasa Pemrograman <p>
 # Program Input Nilai
 ## Flowchart
-
+!![foto](https://github.com/rafiubaydillah/lab.py-06/blob/52d13e46110090b3591215686a22e029e60c1599/WhatsApp%20Image%202024-12-03%20at%2022.08.54_f114eaa6.jpg)
+!![foto](
 ## Code Program
 
 
