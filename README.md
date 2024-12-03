@@ -6,7 +6,7 @@ Mata kuliah : Bahasa Pemrograman <p>
 # Program Input Nilai
 ## Flowchart
 !![foto](https://github.com/rafiubaydillah/lab.py-06/blob/52d13e46110090b3591215686a22e029e60c1599/WhatsApp%20Image%202024-12-03%20at%2022.08.54_f114eaa6.jpg)
-!![foto](
+!![foto](https://github.com/rafiubaydillah/lab.py-06/blob/8988115df2e39f9f45899071c376797d7429f381/WhatsApp%20Image%202024-12-03%20at%2022.08.55_80c40fae.jpg)
 ## Code Program
 
 
