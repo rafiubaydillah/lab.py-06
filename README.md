@@ -128,4 +128,4 @@ python
      - **Hapus (h): Menghapus data mahasiswa berdasarkan Nama yang diberikan. Jika Nama ditemukan, data mahasiswa dihapus dari daftar students.
      - **Keluar (k): Keluar dari program.
 ## Output Program
-!![foto](https://github.com/rafiubaydillah/lab.py-06/blob/f8514ef5bdc60a4d26c0f5e1d92c8ee62cb081a0/Screenshot%20(34).png)
+!![foto](https://github.com/rafiubaydillah/lab.py-06/blob/421c8f91b03af10caca7e3d307dbedcdc162cd02/Screenshot%20(35).png)
